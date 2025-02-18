@@ -42,19 +42,23 @@ Edit
     "371 is an Armstrong number"
   ]
 }
-Challenges Faced
+## Challenges Faced
 Deploying to Render was a learning experience! I initially faced issues with ensuring the API responded correctly after deployment, but I resolved them by carefully configuring my Flask application and managing dependencies properly.
 
-Lessons Learned
-✅ API development with Flask
-✅ Handling errors and validation in APIs
-✅ Deploying an application to Render
-✅ Working with GitHub for version control
+## Lessons Learned
+- ✅ API development with Flask
+- ✅ Handling errors and validation in APIs
+- ✅ Deploying an application to Render
+- ✅ Working with GitHub for version control
 
-Check It Out!
-🔗 Live API: Check it out here
-🔗 GitHub Repository: View the code
+## What’s Next?
+I plan to extend this project by adding:
+- A frontend interface to interact with the API
+- Support for more number classifications
+- Improved performance optimizations
+
+## Check It Out!
+🔗 **Live API**: [Check it out here](https://devops-number-classification-api.onrender.com/api/classify-number?number=371)  
+🔗 **GitHub Repository**: [View the code](https://github.com/Hopeabutu/devops-number-classification-api)
 
 Would love to hear your thoughts! Have you deployed an API before? Let’s connect and learn together! 🚀
-
-
